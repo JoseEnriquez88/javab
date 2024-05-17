@@ -1,0 +1,7 @@
+#Tipos de datos mas usados:
+.Entero => int
+.Decimales => double
+.Booleanos => boolean
+.Caractertes => char
+.Cadenas de caracteres/texto => string
+.Entero largo => long
