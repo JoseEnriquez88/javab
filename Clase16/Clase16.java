@@ -26,6 +26,5 @@ public class Clase16 {
     }
     System.out.println("El numero 3 se cargo " + contador + " veces en el vector.");
     teclado.close();
-    ;
   }
 };
